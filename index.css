@@ -78,14 +78,15 @@ body,html {
     background-size:100% auto;
     background-repeat:no-repeat;
     color:white;
-    display:flex;
-    justify-content:center;
+    /* display:flex;
+    justify-content:center; */
     flex-direction:column;
     transition:1s ease-in-out;
 }
 
 #tagblock{
     display: block;
+    position: center;
     text-align: -webkit-center;
 }
 
